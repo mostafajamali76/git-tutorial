@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 console.log("something...");
-salam
+
+=======
+console.log("something...");
+>>>>>>> parent of 8639cb8... appjs edit shod
